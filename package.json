@@ -1,0 +1,19 @@
+{
+  "name": "cljs-starter",
+  "version": "1.0.0",
+  "description": "cljs 연습을 위한 starter",
+  "main": "index.js",
+  "scripts": {
+    "start": "shadow-cljs watch app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "shadow-cljs": "^2.11.2"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
